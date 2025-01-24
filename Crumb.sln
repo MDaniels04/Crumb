@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pond", "Pond\Pond.vcxproj", "{958E6E79-CD0E-4D98-A89A-E8F4A00218F4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Crumb", "Crumb\Crumb.vcxproj", "{1A1D4143-1746-45D3-B666-4A221955F7AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A1D4143-1746-45D3-B666-4A221955F7AB}.Debug|x64.ActiveCfg = Debug|x64
+		{1A1D4143-1746-45D3-B666-4A221955F7AB}.Debug|x64.Build.0 = Debug|x64
+		{1A1D4143-1746-45D3-B666-4A221955F7AB}.Release|x64.ActiveCfg = Release|x64
+		{1A1D4143-1746-45D3-B666-4A221955F7AB}.Release|x64.Build.0 = Release|x64
+		{958E6E79-CD0E-4D98-A89A-E8F4A00218F4}.Debug|x64.ActiveCfg = Debug|x64
+		{958E6E79-CD0E-4D98-A89A-E8F4A00218F4}.Debug|x64.Build.0 = Debug|x64
+		{958E6E79-CD0E-4D98-A89A-E8F4A00218F4}.Release|x64.ActiveCfg = Release|x64
+		{958E6E79-CD0E-4D98-A89A-E8F4A00218F4}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B34E4DE5-725A-45CB-B0DF-65E9369049DF}
+	EndGlobalSection
+EndGlobal

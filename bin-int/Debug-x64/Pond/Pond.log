@@ -1,0 +1,3 @@
+﻿  App.cpp
+C:\Dev\CrumbEngine\Crumb\Pond\src\App.cpp(10,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Pond.vcxproj -> C:\Dev\CrumbEngine\Crumb\bin\Debug-x64\Pond\Pond.exe
